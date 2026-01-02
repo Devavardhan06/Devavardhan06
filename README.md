@@ -73,7 +73,7 @@ Some of the projects I’ve worked on include:
 ## 📫 Connect With Me
 
 - GitHub: [https://github.com/Devavardhan06](https://github.com/Devavardhan06)  
-- LinkedIn: *([add when ready](https://www.linkedin.com/in/gatla-devavardhan-2787442a4/))*  
+- LinkedIn: *((https://www.linkedin.com/in/gatla-devavardhan-2787442a4/)](https://www.linkedin.com/in/gatla-devavardhan-2787442a4/))*  
 - Email: *(gatladevavardhan@gmail.com)*  
 
 ---
